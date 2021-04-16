@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Greudyn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Greudyn\\.nuget\\packages"
+    ]
+  }
+}
