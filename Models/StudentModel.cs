@@ -20,7 +20,7 @@ namespace Hogwarts.Models
         public string LastName { get; set; }
 
         [Required]
-        [Range(0, 99, ErrorMessage = "Age must between 0 to 99")]
+        [Range(1, 99, ErrorMessage = "Age must between 1 to 99")]
         public int Age { get; set; }
 
         [Required]
